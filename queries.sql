@@ -3,4 +3,4 @@
 Select
     Count(customers.customer_id) As customers_count
 From
-    customers
+    customers;
